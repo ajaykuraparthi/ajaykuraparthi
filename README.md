@@ -171,7 +171,7 @@
   <img src="https://raw.githubusercontent.com/ajaykuraparthi/ajaykuraparthi/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 --->
-![Contribution Snake](https://raw.githubusercontent.com/ajaykuraparthi/ajaykuraparthi/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/ajaykuraparthi/ajaykuraparthi/output/github-contribution-grid-snake.svg)
 
 ### 🎧 Now Playing on Spotify
 
