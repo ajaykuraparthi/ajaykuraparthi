@@ -156,22 +156,22 @@
 </p>
 
 ---
-
+<!--
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=gruvbox&row=2&column=4&no-bg=true&margin-w=10" />
-</p>
+</p> -->
 
 ---
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/raw/output/github-contribution-grid-snake.svg" />
+<!--<p align="center">
+  <img src="https://raw.githubusercontent.com/ajaykuraparthi/ajaykuraparthi/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
----
+--->
+![Contribution Snake](https://raw.githubusercontent.com/ajaykuraparthi/ajaykuraparthi/output/github-contribution-grid-snake.svg)
 
 ### 🎧 Now Playing on Spotify
 
