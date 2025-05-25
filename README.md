@@ -27,8 +27,6 @@
 
 ---
 
-### 🛠️ Skills & Tools
-
 
 ## 🛠️ My favorite tools
 
