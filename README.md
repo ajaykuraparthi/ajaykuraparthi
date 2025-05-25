@@ -162,18 +162,18 @@
 </p> -->
 
 ---
-
+<!--
 ### 🐍 Contribution Snake
 
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/ajaykuraparthi/ajaykuraparthi/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
---->
+
 ![Snake](https://raw.githubusercontent.com/ajaykuraparthi/ajaykuraparthi/output/github-contribution-grid-snake.svg)
 
 ### 🎧 Now Playing on Spotify
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31727dx2htdnpwljswndeluclghq&cover_image=true)](https://open.spotify.com/user/31727dx2htdnpwljswndeluclghq)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31727dx2htdnpwljswndeluclghq&cover_image=true)](https://open.spotify.com/user/31727dx2htdnpwljswndeluclghq)         -->
 
 ### 📬 Let's Connect
 
