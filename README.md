@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey!+I'm+Ajay+%F0%9F%91%8B;Freelancer+%7C+Developer+%7C+3D+Creator;Turning+Imagination+into+Real+Life+Solutions;AI+%7C+ML+%7C+UI%2FUX+%7C+AI+Agents" alt="Typing header">
 </p>
 
-<!-- Banner 
-<p align="center">
-  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/banner.png" alt="Ajay Banner" />
+
+<!--<p align="center">
+  <img src="https://github.com/ajaykuraparthi/ajaykuraparthi/blob/main/banner.png" alt="Ajay Banner" />
 </p>-->
 
 ---
@@ -142,15 +142,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaykuraparthi&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykuraparthi&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykuraparthi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -178,8 +178,8 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kuraparthiajay@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ajay-kuraparthi-423a56288/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
