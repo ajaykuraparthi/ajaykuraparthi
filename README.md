@@ -1,14 +1,24 @@
 <!-- Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Ajay+%F0%9F%91%8B;Creative+Dev+⚡️+Fullstack+3D+Creator🧠;Turning+Imagination+into+Real+Life+Solutions+⚡️;Exploring+3D+Web,+AI,+and+ML+👾"; />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey!+I'm+Ajay+%F0%9F%91%8B;Freelancer+%7C+Developer+%7C+3D+Creator;Turning+Imagination+into+Real+Life+Solutions;AI+%7C+ML+%7C+UI%2FUX+%7C+AI+Agents" alt="Typing header">
+  <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/3d-neon-grid.gif" width="80%" />
 </p>
+
+
+
+
 
 
 <!--<p align="center">
   <img src="https://github.com/ajaykuraparthi/ajaykuraparthi/blob/main/banner.png" alt="Ajay Banner" />
 </p>-->
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/3d-neon-grid.gif" width="80%" />
+</p>
 
 ### 🧑‍💻 Coding Vibes
 
@@ -161,7 +171,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=gruvbox&row=2&column=4&no-bg=true&margin-w=10" />
 </p> -->
 
----
 <!--
 ### 🐍 Contribution Snake
 
