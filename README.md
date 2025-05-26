@@ -1,4 +1,4 @@
-<!-- Typing Header -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Ajay+%F0%9F%91%8B;Creative+Dev+⚡️+Fullstack+3D+Creator🧠;Turning+Imagination+into+Real+Life+Solutions+⚡️;Exploring+3D+Web,+AI,+and+ML+👾"; />
 </h1>
