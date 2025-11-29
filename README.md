@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="100%" />
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Ajay+%F0%9F%91%8B;Creative+Dev+⚡️+Fullstack+3D+Creator🧠;Turning+Imagination+into+Real+Life+Solutions+⚡️;Exploring+3D+Web,+AI,+and+ML+👾"; />
@@ -152,12 +155,12 @@
 - 🎨 **Design**: Figma, Adobe XD, UX research
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajaykuraparthi&show_icons=true&theme=radical" />
-</p>-->
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykuraparthi&theme=radical" />
@@ -167,13 +170,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykuraparthi&layout=compact&theme=tokyonight" />
 </p>
 
----
-<!--
+---   -->
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajaykuraparthi&theme=algolia&no-frame=false&no-bg=false&margin-w=4" height="170" />
+</p>
+
+## 🚀 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykuraparthi&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
+</p>
+
+<!--
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=gruvbox&row=2&column=4&no-bg=true&margin-w=10" />
-</p> -->
+</p>  -->
 
 <!--
 ### 🐍 Contribution Snake
