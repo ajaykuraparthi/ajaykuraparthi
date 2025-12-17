@@ -172,11 +172,7 @@
 
 ---   -->
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajaykuraparthi&theme=algolia&no-frame=false&no-bg=false&margin-w=4" height="170" />
-</p>
 
 ## 🚀 Contribution Graph
 <p align="center">
