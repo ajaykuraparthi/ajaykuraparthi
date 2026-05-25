@@ -174,11 +174,13 @@
 
 
 
-## 🚀 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykuraparthi&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
+---
 
-</p>
+## ◈ Contribution Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykuraparthi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=9b5de5&point=00ff88&area=true&area_color=00f5ff" />
+
+---
 
 
 <!--
