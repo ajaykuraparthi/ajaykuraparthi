@@ -10,9 +10,12 @@
   <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/3d-neon-grid.gif" width="80%" />
 </p>
 
+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajaykuraparthi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ajaykuraparthi" alt="Profile Views" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/3d-neon-grid.gif" width="80%" />
